@@ -1,0 +1,10 @@
+.illu{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 30px;
+    width: 100%;
+}
+.section1{
+    max-width: 300px;
+    margin: 0 auto;
+}

@@ -1,0 +1,35 @@
+.btn1{
+    background-color: blue;
+    height: 30px;
+    border-radius: 5px;
+    width: 200px;
+    color: white;
+}
+.section4{
+    
+     /* margin-top: 30px;  */
+    /* border: 10px solid white; */
+    padding: 30px;
+    /* max-width: 300px; */
+    background-color: white;
+    /* margin-left: 38%;
+    width: 244px; */
+    margin: 0 auto;
+    max-width: 242px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    /* margin-bottom: 200px; */
+    
+    /* height: 60px; */
+}
+.btn2{
+    margin-top: 10px;
+    
+}
+.anchor4{
+    text-decoration: none;
+    color: grey;
+}
+/* .parentdiv{
+    background-color: grey;
+} */

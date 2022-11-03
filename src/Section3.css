@@ -1,0 +1,37 @@
+.parentdiv {
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+  max-width: 300px;
+  background-color: #f8f9fe;
+  width: 190px;
+  margin-left: 30px;
+  border-radius: 4px;
+  height: 35px;
+}
+.section3 {
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px solid white;
+}
+.img1 {
+  width: 40px;
+  height: 40px;
+  /* padding-left: 60px; */
+  /* background-color: grey; */
+}
+.headerdiv p {
+  margin: 0%;
+  /* background-color: gray; */
+  /* margin-bottom: 50px; */
+}
+h5 {
+  margin: 0%;
+}
+/* .childdiv{
+  background-color: brown;
+} */
+.change {
+  margin-left: 14px;
+}

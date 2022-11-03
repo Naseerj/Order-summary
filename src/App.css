@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  background-image: url(./images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-color: aquamarine;
+  height: 600px;
+}
+
